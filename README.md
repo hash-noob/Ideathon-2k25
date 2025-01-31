@@ -85,7 +85,7 @@ This sample project outlines the **minimum expected coding proficiency** for par
      - Expected Impact  
 
 2. **Final Submission:**  
-   - A functional prototype (software/hardware) must be demonstrated during the event.  
+   - A functional prototype  can be demonstrated during the event for advantage, but its not mandatory.  
 
 3. **Format:**  
    - PPT/PDF only. Max file size: **10MB**.  
