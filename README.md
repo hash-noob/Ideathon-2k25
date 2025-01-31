@@ -35,11 +35,11 @@ We’ve curated several domains for you to explore. If you have a unique idea th
 ---
 
 ## Sample Projects  
-**Title:** Smart Waste Management System (Beginner-Friendly)
+**Title:** Smart Waste Management System (Beginner-Friendly) <br>
 **Domain:** Real-Life Problems  
 **Presentation:** [Presentation](https://docs.google.com/presentation/d/1DiWOVdFtY2HC6OZ9nV4M-_JJUsaO-XLnOpHWuD9LX_E/edit?usp=sharing)
 
-**Title:** College Predictor (Intermediate)
+**Title:** College Predictor (Intermediate) <br>
 **Domain:** Edtech  
 **Live at:** [College-Predictor](https://tryhard19.pythonanywhere.com/)
 
