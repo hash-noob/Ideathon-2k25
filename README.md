@@ -66,7 +66,7 @@ This sample project outlines the **minimum expected coding proficiency** for par
    - A nominal fee is required to confirm participation.  
 
 6. **Prototype Requirement:**  
-   - A **working model/prototype** aligned with your submitted abstract must be presented on the event day.  
+   - A **working model/prototype/UI sample** aligned with your submitted abstract must be presented on the event day.  
 
 7. **Team Changes:**  
    - Teams must finalize members before submission. No changes allowed post-submission.  
