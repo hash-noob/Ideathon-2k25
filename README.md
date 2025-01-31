@@ -6,7 +6,7 @@ This document outlines the rules, submission guidelines, and evaluation criteria
 
 ## Table of Contents  
 1. [Overview](#overview)  
-2. [Sample Project](#sample-project)  
+2. [Sample Project](#sample-projects)  
 3. [Competition Rules](#competition-rules)  
 4. [Submission Guidelines](#submission-guidelines)  
 5. [Resources](#resources)  
@@ -34,10 +34,14 @@ We’ve curated several domains for you to explore. If you have a unique idea th
 
 ---
 
-## Sample Project  
-**Title:** Smart Waste Management System  
+## Sample Projects  
+**Title:** Smart Waste Management System (Beginner-Friendly)
 **Domain:** Real-Life Problems  
 **Presentation:** [Presentation](https://docs.google.com/presentation/d/1DiWOVdFtY2HC6OZ9nV4M-_JJUsaO-XLnOpHWuD9LX_E/edit?usp=sharing)
+
+**Title:** College Predictor (Intermediate)
+**Domain:** Edtech  
+**Live at:** [College-Predictor](https://tryhard19.pythonanywhere.com/)
 
 This sample project outlines the **minimum expected coding proficiency** for participants. A fully functional implementation is not required; however, purely conceptual presentations will not be accepted. Participants must provide a basic UI prototype that clearly demonstrates their project to the judges. Additionally, a comprehensive presentation explaining the project should be submitted. More detailed implementaions and PowerPoint presentations are likely to receive higher evaluations.
 
