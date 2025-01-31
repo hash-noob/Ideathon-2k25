@@ -98,7 +98,7 @@ This sample project outlines the **minimum expected coding proficiency** for par
 ## Resources  
 1. **Sample Project:** [Smart Waste Management System](https://github.com/hash-noob/Ideathon-2k25)  
 2. **Registration Link:** [https://bit.ly/cybernautsideathon2k25](https://docs.google.com/forms/d/e/1FAIpQLSfJibOvL861V70eq5AG3vNOaDzQc9AKBfH-il_wid1dedpIBg/viewform)  
-3. **FAQs:** Refer to the event website or contact coordinators.  
+3. **FAQs:** Contact coordinators.  
 
 ---
 
