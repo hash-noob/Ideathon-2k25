@@ -101,8 +101,9 @@ This sample project outlines the **minimum expected coding proficiency** for par
 ## Contact  
 - **Email:** [cybernautscvr@gmail.com](mailto:cybernautscvr@gmail.com)  
 - **Social Media:**
-  **Instagram** : [cybernauts-cvr](https://www.instagram.com/accounts/suspended/?next=https%3A%2F%2Fwww.instagram.com%2Fcybernauts_cvr%2F%3F__coig_ufac%3D1#)
-  **Linkedin** : [cybernauts-cvr](https://www.linkedin.com/company/cybernauts-cvr/posts/?feedView=all)
+  
+  - **Instagram** : [cybernauts-cvr](https://www.instagram.com/accounts/suspended/?next=https%3A%2F%2Fwww.instagram.com%2Fcybernauts_cvr%2F%3F__coig_ufac%3D1#)
+  - **Linkedin** : [cybernauts-cvr](https://www.linkedin.com/company/cybernauts-cvr/posts/?feedView=all)
   - **Sai Kowluru:** +91 82470 56678  
   - **Shravya:** +91 93915 64427  
   - **Rishwika:** +91 62819 94132  
