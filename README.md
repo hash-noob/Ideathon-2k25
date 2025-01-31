@@ -39,7 +39,7 @@ We’ve curated several domains for you to explore. If you have a unique idea th
 **Domain:** Real-Life Problems  
 **Presentation:** [Presentation](https://docs.google.com/presentation/d/1DiWOVdFtY2HC6OZ9nV4M-_JJUsaO-XLnOpHWuD9LX_E/edit?usp=sharing)
 
-This sample project outlines the expected coding proficiency for participants. A fully functional implementation is not required; however, purely conceptual presentations will not be accepted. Participants must provide a basic UI prototype that clearly demonstrates their project to the judges. Additionally, a comprehensive presentation explaining the project should be submitted. More detailed PowerPoint presentations are likely to receive higher evaluations.
+This sample project outlines the **minimum expected coding proficiency** for participants. A fully functional implementation is not required; however, purely conceptual presentations will not be accepted. Participants must provide a basic UI prototype that clearly demonstrates their project to the judges. Additionally, a comprehensive presentation explaining the project should be submitted. More detailed implementaions and PowerPoint presentations are likely to receive higher evaluations.
 
 **Note:** This is a sample project and not an actual implementation. The provided PowerPoint is intended to guide participants on the essential aspects it should include. There are no restrictions on the presentation's structure. Please ensure your presentation is formal and well-organized.
 
